@@ -1,7 +1,7 @@
 # CSI516-Networks
 Projects done as a part of CSI 518 - Computer Comm Networks
 
-Project 1: Simple chat server in Java, telnet as client. Server can handle multiple clients.
+Project 1: Simple chat server in Java. Server can handle multiple clients.
 Client : Telnet
 
 Project 2: Simple FTP Server, with following command implementations.
